@@ -28,7 +28,7 @@ jobs:
       - name: Set up pnpm
         uses: pnpm/action-setup@v4
         with:
-          package_json_file: docs-landing/package.json
+          version: '12.14.0'
           run_install: false
 
       - name: Set up Node
