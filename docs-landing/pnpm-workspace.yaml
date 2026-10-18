@@ -1,0 +1,4 @@
+# MSW is a transitive shadcn CLI dependency; its worker setup is not used by this site.
+# Keep unreviewed dependency scripts blocked and do not run MSW's postinstall.
+allowBuilds:
+  msw: false
