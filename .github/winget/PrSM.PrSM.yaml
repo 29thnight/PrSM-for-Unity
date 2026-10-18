@@ -6,9 +6,9 @@ PackageVersion: 0.1.0
 PackageLocale: en-US
 Publisher: PrSM Contributors
 PackageName: PrSM Language
-PackageUrl: https://github.com/29thnight/PrSM
+PackageUrl: https://github.com/29thnight/PrSM-for-Unity
 License: MIT
-LicenseUrl: https://github.com/29thnight/PrSM/blob/main/LICENSE
+LicenseUrl: https://github.com/29thnight/PrSM-for-Unity/blob/main/LICENSE
 ShortDescription: Unity-first scripting language that compiles to C#
 Description: |-
   PrSM (Project Scripting for Mechanics) is a Unity-first scripting language toolkit.
@@ -23,7 +23,7 @@ Tags:
 InstallerType: msi
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/29thnight/PrSM/releases/download/v0.1.0/PrSM-0.1.0-x86_64.msi
+    InstallerUrl: https://github.com/29thnight/PrSM-for-Unity/releases/download/v0.1.0/PrSM-0.1.0-x86_64.msi
     InstallerSha256: # Populated automatically by winget-releaser
 ManifestType: singleton
 ManifestVersion: 1.6.0

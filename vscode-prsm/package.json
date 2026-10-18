@@ -6,10 +6,10 @@
   "publisher": "parkyoungung",
   "icon": "icons/prsm-logo.png",
   "license": "MIT",
-  "repository": "https://github.com/29thnight/PrSM",
-  "homepage": "https://github.com/29thnight/PrSM#readme",
+  "repository": "https://github.com/29thnight/PrSM-for-Unity",
+  "homepage": "https://github.com/29thnight/PrSM-for-Unity#readme",
   "bugs": {
-    "url": "https://github.com/29thnight/PrSM/issues"
+    "url": "https://github.com/29thnight/PrSM-for-Unity/issues"
   },
   "keywords": [
     "prsm",

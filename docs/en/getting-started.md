@@ -10,7 +10,7 @@ nav_order: 2
 
 ### Option A: MSI Installer (Windows, recommended)
 
-Download the latest `.msi` from [GitHub Releases](https://github.com/29thnight/PrSM/releases) and run it. The installer:
+Download the latest `.msi` from [GitHub Releases](https://github.com/29thnight/PrSM-for-Unity/releases) and run it. The installer:
 - Installs `prism.exe` to `C:\Program Files\PrSM\`
 - Adds the install directory to system PATH
 - Installs the VS Code extension automatically (if VS Code is detected)
@@ -102,7 +102,7 @@ Add the PrSM Unity package via Package Manager:
 
 1. Open **Window > Package Manager**
 2. Click **+** > **Add package from git URL**
-3. Enter: `https://github.com/29thnight/PrSM.git?path=unity-package`
+3. Enter: `https://github.com/29thnight/PrSM-for-Unity.git?path=unity-package`
 
 The package provides:
 - Automatic `.prsm` file import (ScriptedImporter)

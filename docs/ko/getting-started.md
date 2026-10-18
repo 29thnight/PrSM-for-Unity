@@ -10,7 +10,7 @@ nav_order: 2
 
 ### 방법 A: MSI 인스톨러 (Windows, 권장)
 
-[GitHub Releases](https://github.com/29thnight/PrSM/releases)에서 최신 `.msi`를 다운로드하여 실행합니다. 인스톨러가 수행하는 작업:
+[GitHub Releases](https://github.com/29thnight/PrSM-for-Unity/releases)에서 최신 `.msi`를 다운로드하여 실행합니다. 인스톨러가 수행하는 작업:
 - `prism.exe`를 `C:\Program Files\PrSM\`에 설치
 - 시스템 PATH에 설치 디렉토리 추가
 - VS Code가 감지되면 확장 자동 설치
@@ -102,7 +102,7 @@ Package Manager를 통해 PrSM Unity 패키지를 추가합니다:
 
 1. **Window > Package Manager** 열기
 2. **+** > **Add package from git URL** 클릭
-3. 입력: `https://github.com/29thnight/PrSM.git?path=unity-package`
+3. 입력: `https://github.com/29thnight/PrSM-for-Unity.git?path=unity-package`
 
 패키지가 제공하는 기능:
 - `.prsm` 파일 자동 임포트 (ScriptedImporter)

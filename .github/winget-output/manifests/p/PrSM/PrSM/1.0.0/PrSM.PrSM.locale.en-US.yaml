@@ -3,11 +3,11 @@ PackageIdentifier: PrSM.PrSM
 PackageVersion: 1.0.0
 PackageLocale: en-US
 Publisher: PrSM Contributors
-PublisherUrl: https://github.com/29thnight/PrSM
+PublisherUrl: https://github.com/29thnight/PrSM-for-Unity
 PackageName: PrSM Language
-PackageUrl: https://github.com/29thnight/PrSM
+PackageUrl: https://github.com/29thnight/PrSM-for-Unity
 License: MIT
-LicenseUrl: https://github.com/29thnight/PrSM/blob/main/LICENSE
+LicenseUrl: https://github.com/29thnight/PrSM-for-Unity/blob/main/LICENSE
 ShortDescription: Unity-first scripting language that compiles to C#
 Description: |-
   PrSM (Pragmatic Reduced Syntax for Metascript) is a Unity-first scripting language toolkit.

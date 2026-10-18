@@ -157,7 +157,7 @@
         <WixVariable Id='WixUILicenseRtf' Value='crates\refraction\wix\License.rtf' />
 
         <Property Id='WIXUI_EXITDIALOGOPTIONALTEXT'
-            Value='PrSM has been installed successfully.&#13;&#10;&#13;&#10;VS Code extension: If automatic installation was skipped (VS Code not detected) or failed, the VSIX is available at:&#13;&#10;  [APPLICATIONFOLDER]parkyoungung.prsm-lang.vsix&#13;&#10;Install it manually via VS Code: Extensions > ··· > Install from VSIX.&#13;&#10;&#13;&#10;To install the Unity package, open Unity and go to:&#13;&#10;Window > Package Manager > + > Add package from git URL:&#13;&#10;https://github.com/29thnight/PrSM.git?path=unity-package' />
+            Value='PrSM has been installed successfully.&#13;&#10;&#13;&#10;VS Code extension: If automatic installation was skipped (VS Code not detected) or failed, the VSIX is available at:&#13;&#10;  [APPLICATIONFOLDER]parkyoungung.prsm-lang.vsix&#13;&#10;Install it manually via VS Code: Extensions > ··· > Install from VSIX.&#13;&#10;&#13;&#10;To install the Unity package, open Unity and go to:&#13;&#10;Window > Package Manager > + > Add package from git URL:&#13;&#10;https://github.com/29thnight/PrSM-for-Unity.git?path=unity-package' />
 
     </Product>
 </Wix>

@@ -123,7 +123,7 @@ function App() {
         <div className="brand-nav__right">
           <a
             className="brand-nav__link"
-            href="https://github.com/29thnight/PrSM"
+            href="https://github.com/29thnight/PrSM-for-Unity"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"

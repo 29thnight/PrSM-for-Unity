@@ -4,7 +4,7 @@ version = "3.5.5"
 edition = "2021"
 description = "Refraction compiler for PrSM — Unity-first scripting language"
 license = "MIT"
-repository = "https://github.com/29thnight/PrSM"
+repository = "https://github.com/29thnight/PrSM-for-Unity"
 
 [[bin]]
 name = "prism"
